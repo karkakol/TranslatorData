@@ -16,7 +16,20 @@ data/
 ```
 
 The notebook's preprocessing cell reads `source/` and writes `preprocessed/`;
-the evaluation cells read `results/`.
+the evaluation cells read `results/` and write into `evaluation/`:
+
+- `evaluation/scores.csv` — all metrics per platform/direction/size
+  (chrF, BLEU, bootstrap win rate, COMET, BERTScore). Each flow fills
+  only its own columns, so local and Colab runs merge instead of
+  overwriting each other.
+- `evaluation/disagreements_{direction}_{size}.csv` — the sentences
+  where the platforms differ the most, for manual error analysis.
+
+The evaluation runs as four flows: `evaluate("short")` (quick check),
+`evaluate("full")` (thesis numbers), COMET, and BERTScore. The last two
+need packages installed by the notebook's setup cell (run once, then
+restart the session); on this corpus they are best run on Google Colab
+with a GPU runtime.
 
 ## Input files
 
