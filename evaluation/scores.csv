@@ -1,5 +1,5 @@
 platform;direction;size;sentences;chrF;BLEU;bootstrap_win;COMET;BERTScore
-android;en-pl;short;100;60.88;34.73;0.000;;
-android;pl-en;short;100;62.62;42.50;0.000;;
-ios;en-pl;short;100;70.68;46.90;1.000;;
-ios;pl-en;short;100;74.36;59.77;1.000;;
+android;en-pl;short;100;60.88;34.73;0.000;0.9069;0.8994
+android;pl-en;short;100;62.62;42.50;0.000;0.8691;0.9627
+ios;en-pl;short;100;70.68;46.90;1.000;0.9573;0.9291
+ios;pl-en;short;100;74.36;59.77;1.000;0.9315;0.9772
