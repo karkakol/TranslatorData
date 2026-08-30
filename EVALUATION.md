@@ -3,6 +3,19 @@
 This document explains how the benchmark results are evaluated and how to
 decide which platform translates better.
 
+## Dataset attribution
+
+The source corpus (`source/en-pl-pairs.tsv`) is the "Sentence pairs in
+Polish-English" export from the [Tatoeba Project](https://tatoeba.org),
+generated and downloaded on 2026-07-21
+(83,980 pairs before preprocessing; 78,296 / 75,390 unique source
+sentences per direction after deduplication and semicolon filtering).
+
+Tatoeba data is licensed under
+[CC BY 2.0 FR](https://creativecommons.org/licenses/by/2.0/fr/):
+attribution to the Tatoeba Project is required in any work that uses
+this data, including the thesis.
+
 ## Folder layout
 
 ```
