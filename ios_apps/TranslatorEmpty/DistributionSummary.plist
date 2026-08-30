@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Translator.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>DA1119A49F0530E5D26850A96450628C86794F82</string>
+				<key>dateExpires</key>
+				<string>09/04/2027</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>J5FM626PE2.com.karol.kakol.Translator</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>J5FM626PE2</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>Translator.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>1802ab97-3a7c-4e80-a073-7365a787bafe</string>
+				<key>dateExpires</key>
+				<string>30/08/2027</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.karol.kakol.Translator</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>J5FM626PE2</string>
+				<key>name</key>
+				<string>SOFTWARE MANSION SP Z O O SPOLKA KOMANDYTOWA</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
