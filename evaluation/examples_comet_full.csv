@@ -1,0 +1,81 @@
+direction;winner;gap;text;ios;ios_score;android;android_score;gold
+en-pl;ios;0.7032;I know Tom misses you.;Wiem, że Tom za tobą tęskni.;0.9871;Wiem, że Tom Thess You.;0.2839;Wiem, że Tom za tobą tęskni.
+en-pl;ios;0.7001;He fell for her big time.;Zakochał się w niej bardzo.;0.9925;Upadł na jej wielki czas.;0.2924;Zakochał się w niej bardzo.
+en-pl;ios;0.6963;Don't beat about the bush.;Nie owijaj w bawełnę.;0.9699;Nie bij o buszu.;0.2736;Nie owijaj w bawełnę.
+en-pl;ios;0.6804;Tom's dog bit Mary's hand.;Pies Toma ugryzł Mary w rękę.;0.9825;Dog Toma bitowa Maryja.;0.3021;Pies Toma ugryzł Mary w rękę.
+en-pl;ios;0.6793;I retire in four years' time.;Przejdę na emeryturę za cztery lata.;0.9729;Od lat cztery lata.;0.2935;Odchodzę na emeryturę za cztery lata.
+en-pl;ios;0.6733;The train leaves at six.;Pociąg odjeżdża o szóstej.;0.9909;Pociąg liście w wieku sześciu.;0.3176;Pociąg odjeżdża o szóstej.
+en-pl;ios;0.6615;Tom hopes Mary will get well soon.;Tom ma nadzieję, że Mary wkrótce wyzdrowieje.;0.9470;Tom Homes Mary wkrótce się udał.;0.2855;Tom ma nadzieję, że Mary wkrótce poczuje się lepiej.
+en-pl;ios;0.6598;I believe you have appendicitis.;Wydaje mi się, że masz zapalenie wyrostka robaczkowego.;0.9837;Wierzę, że masz zapleczeni.;0.3238;Wydaje mi się, że masz zapalenie wyrostka robaczkowego.
+en-pl;ios;0.6584;It is getting lighter outside.;Na zewnątrz robi się coraz jaśniej.;0.9674;Dostaje lżejsze na zewnątrz.;0.3091;Na dworze robi się jaśniej.
+en-pl;ios;0.6550;I sympathize with you.;Współczuję ci.;0.9900;Sympisz się z tobą.;0.3350;Współczuję ci.
+en-pl;ios;0.6510;Can Tom join you?;Czy Tom może do ciebie dołączyć?;0.9931;Czy Tom Cel Cel?;0.3421;Czy Tom może do ciebie dołączyć?
+en-pl;ios;0.6487;I dug a pit.;Wykopałem dół.;0.9762;Duła mnie pit.;0.3276;Wykopałam dół.
+en-pl;ios;0.6425;I may have to fire Tom.;Być może będę musiał zwolnić Toma.;0.9803;Mogę wystrzelić Tom.;0.3377;Być może będę musiała zwolnić Toma.
+en-pl;ios;0.6405;You overpaid.;Przepłaciłeś.;0.9919;Odeptaided.;0.3514;Przepłaciłeś.
+en-pl;ios;0.6365;Is this jumper machine washable?;Czy ten sweter można prać w pralce?;0.9334;Czy ta maszyna zworkowa jest prowa?;0.2969;Czy ten sweter nadaje się do prania w pralce?
+en-pl;ios;0.6364;He leaves for school at seven.;Wychodzi do szkoły o siódmej.;0.9897;Liczy szkołę o siedem.;0.3533;Wychodzi do szkoły o siódmej.
+en-pl;ios;0.6344;It's not worth dwelling on.;Nie warto się nad tym rozwodzić.;0.9853;Nie warto na mieszkania.;0.3509;Nie warto się nad tym rozwodzić.
+en-pl;ios;0.6310;I coughed.;Zakaszlałem.;0.9868;Kaształem.;0.3558;Zakaszlałem.
+en-pl;ios;0.6289;Her stern look got him to quit talking.;Jej surowe spojrzenie sprawiło, że przestał mówić.;0.9546;Jej srogo wyglądało go, by rozkwitać.;0.3257;Jej srogie spojrzenie sprawiło, że skończył mówić.
+en-pl;ios;0.6287;You're overreacting.;Przesadzasz.;0.9866;Przesedeś.;0.3578;Przesadzasz.
+en-pl;android;-0.5823;Tom got away with the money.;Tomowi uszedł na sucho pieniądze.;0.4066;Tom uciekł z pieniędzmi.;0.9889;Tom uciekł z pieniędzmi.
+en-pl;android;-0.5460;This will pass.;To minie.;0.3756;To przejdzie.;0.9217;Ujdzie.
+en-pl;android;-0.5301;What is his age?;Ile ma lat?;0.4636;Jaki jest jego wiek?;0.9937;Jaki jest jego wiek?
+en-pl;android;-0.5030;It was a breeze.;To była prosta.;0.4875;To była bryza.;0.9905;To była bryza.
+en-pl;android;-0.4819;Try this on.;Przymierz to.;0.5072;Spróbuj tego.;0.9891;Spróbuj tego.
+en-pl;android;-0.4646;What are you implying?;Co masz na uwidze?;0.5294;Co sugerujesz?;0.9939;Co sugerujesz?
+en-pl;android;-0.4388;The pyramids are tombs.;Piramidy to grobowce.;0.5262;Piramidy są grobami.;0.9649;Piramidy są grobowcami.
+en-pl;android;-0.4355;He's making biscuits.;On robi herbatniki.;0.4983;Robi ciastka.;0.9338;On robi ciastka.
+en-pl;android;-0.4305;Resurrection is at hand.;Zmartwychwstanie jest na wyczynie.;0.5250;Zmartwychwstanie jest pod ręką.;0.9555;Wskrzeszenie jest pod ręką.
+en-pl;android;-0.4276;This bird is a wagtail.;Ten ptak to wagtail.;0.4220;Ten ptak jest pliszką.;0.8496;Ten ptak to pliszka.
+en-pl;android;-0.4229;You're OK.;Nic Ci Nie Jest.;0.5621;Jesteś w porządku.;0.9850;Jesteś w porządku.
+en-pl;android;-0.4219;Money begets money.;Pieniądze spodają pieniądze.;0.4625;Pieniądze rodzi pieniądze.;0.8844;Pieniądz rodzi pieniądz.
+en-pl;android;-0.4067;I'm not a bully.;Nie jestem łobuzem.;0.5834;Nie jestem tyranem.;0.9901;Nie jestem tyranem.
+en-pl;android;-0.3996;I do what I'm told.;Robię to, co mi kazano.;0.5171;Robię to, co mi powiem.;0.9168;Robię, co mi każą.
+en-pl;android;-0.3994;Your time is up.;Twój czas się sunął.;0.5914;Twój czas się skończył.;0.9908;Twój czas się skończył.
+en-pl;android;-0.3874;We get together on Fridays.;Społykamy się w piątki.;0.6043;Spotykamy się w piątki.;0.9916;Spotykamy się w piątki.
+en-pl;android;-0.3838;The truth bears hatred.;Prawda niesie ze nieść nienawiścią.;0.5505;Prawda nosi nienawiść.;0.9343;Prawda rodzi nienawiść
+en-pl;android;-0.3716;I sweated.;Spociłem się.;0.6168;Pociłem się.;0.9884;Pociłem się.
+en-pl;android;-0.3665;I play the drums.;Gram na perkusji.;0.6206;Gram na bębnach.;0.9871;Gram na bębnach.
+en-pl;android;-0.3592;Praise him!;Chwalcie go!;0.5730;Chwała go!;0.9321;Chwała mu!
+pl-en;ios;0.6674;Nie klnij publicznie.;Don't swear in public.;0.9783;DO NOT YOUR PROPERT.;0.3109;Don't swear in public.
+pl-en;ios;0.6417;Zezłościł się na mnie.;He got angry with me.;0.9763;He gave me to me.;0.3346;He got angry with me.
+pl-en;ios;0.6396;Nie męczysz się?;Aren't you tired?;0.9599;Do not you tie?;0.3203;Aren't you getting tired?
+pl-en;ios;0.6258;Nie mam szerokich bioder.;I don't have wide hips.;0.9713;I do not have a wide biodeer.;0.3456;I don't have wide hips.
+pl-en;ios;0.6207;Surowo wzbronione.;Strictly forbidden.;0.9848;Esty framework.;0.3642;Strictly forbidden.
+pl-en;ios;0.6193;Uwaga na kieszonkowców.;Beware of pickpockets.;0.9387;Note on pants.;0.3194;Beware of pickpockets here.
+pl-en;ios;0.6186;Zadzwoni do mnie koło szóstej.;He'll call me around six.;0.9790;Circle of the sixth.;0.3604;He'll call me around six.
+pl-en;ios;0.6161;Staniki zawsze piorę ręcznie.;I always wash my bras by hand.;0.9433;BRAKIE ALWAYS WORTER.;0.3273;I always hand wash my bras.
+pl-en;ios;0.6158;Jebana dziwka.;Fucking whore.;0.9867;Jebana slut.;0.3709;Fucking whore.
+pl-en;ios;0.6102;Już szósta.;It's already six.;0.9744;Sixth.;0.3642;It's already six.
+pl-en;ios;0.6080;Żenię się.;I'm getting married.;0.9789;Dry.;0.3709;I'm getting married.
+pl-en;ios;0.6068;Gówno mnie to obchodzi.;I don't give a shit.;0.9281;Shit it celebrates me.;0.3213;I don't give a fuck.
+pl-en;ios;0.6040;Zamknij się do cholery!;Shut the hell up!;0.9886;Close up of cholera!;0.3845;Shut the hell up!
+pl-en;ios;0.6039;Ale z ciebie mięczak.;But you're a wimp.;0.9004;But with you mollusc.;0.2964;You're such a wimp.
+pl-en;ios;0.6038;Gra pan w piłkę?;Do you play football?;0.9915;Gentleman's ball?;0.3877;Do you play football?
+pl-en;ios;0.6032;Prenumeruję ten magazyn od czterech lat.;I have been subscribing to this magazine for four years.;0.9602;I am sorry for this warehouse for four years.;0.3570;I've been subscribing to that magazine for four years.
+pl-en;ios;0.6015;Gęś jakoś ocalała.;The goose somehow survived.;0.9773;Somehow, smelled.;0.3758;The goose somehow survived.
+pl-en;ios;0.6015;Zamknij się do cholery.;Shut the hell up.;0.9786;Close up of cholera.;0.3771;Shut the hell up.
+pl-en;ios;0.6013;Przestudiuję twój raport.;I will study your report.;0.9625;I high to you.;0.3613;I'll study your report.
+pl-en;ios;0.5998;Broń się.;Defend yourself.;0.9878;Weapons.;0.3880;Defend yourself.
+pl-en;android;-0.5452;Dranie!;You're there!;0.4498;Bastards!;0.9950;Bastards!
+pl-en;android;-0.5118;Kareta.;Carry.;0.4670;Four of a kind.;0.9788;Four of a kind.
+pl-en;android;-0.4957;Dogonię cię.;I'll chup with you.;0.4372;I will catch up with you.;0.9328;I'll catch up with you.
+pl-en;android;-0.4864;Drań!;You're a stard!;0.5076;Bastard!;0.9941;Bastard!
+pl-en;android;-0.4653;Mógłbym przysiąc, że coś słyszałem.;I could have sore I heard something.;0.4465;I could swear that I heard something.;0.9118;I could've sworn I heard something.
+pl-en;android;-0.4583;Kto dopingował?;Who was doping?;0.5268;Who cheered?;0.9851;Who cheered?
+pl-en;android;-0.4506;Zająłem się tym.;I took dore of it.;0.4930;I took care of this.;0.9436;I took care of that.
+pl-en;android;-0.4463;Kolej.;Railway.;0.5209;Turn.;0.9672;Turn.
+pl-en;android;-0.4396;Nie przeklinaj.;Don't swear.;0.3474;Do not curse.;0.7869;Stop cursing.
+pl-en;android;-0.4341;Ile wydałeś na swój nowy samochód?;How much did you say on your new car?;0.5187;How much did you spend on your new car?;0.9528;How much money did you spend on your car?
+pl-en;android;-0.4283;Ten ptak to pliszka.;This bird is a bird.;0.5404;This bird is a wagtail.;0.9687;This bird is a wagtail.
+pl-en;android;-0.4273;Musisz go zatrzymać.;You have to keep it.;0.5566;You must stop him.;0.9839;You must stop him.
+pl-en;android;-0.4252;Płonęło.;It was on stire.;0.4555;Płonęło.;0.8807;It burned.
+pl-en;android;-0.4123;Spadaj.;Fall.;0.5616;Get lost.;0.9739;Get lost.
+pl-en;android;-0.4120;Dziwka.;Whore.;0.5614;Slut.;0.9735;Slut.
+pl-en;android;-0.4108;Kładzie dzieci do łóżka.;He pouts the children in bed.;0.4440;He puts children to bed.;0.8548;She's putting the children to bed.
+pl-en;android;-0.4090;Stać cię na to?;Are you at it?;0.5198;Can afford it?;0.9288;Can you afford it?
+pl-en;android;-0.4003;To jest falsyfikat.;This is a fork.;0.4397;This is the Fake.;0.8400;That's a fake.
+pl-en;android;-0.3820;Kapujesz?;Are you kidding me?;0.5022;Kapujesz?;0.8842;Got it?
+pl-en;android;-0.3705;Nad pustynią krąży sęp.;A viscture is circling over the desert.;0.5568;A vulture is circling over the desert.;0.9273;A vulture is circling above the desert.

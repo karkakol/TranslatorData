@@ -121,6 +121,49 @@ cells are written so they can be pasted into Google Colab: upload the
 result CSVs, uncomment the `pip install` line, and run. On a machine
 without the packages the cells print a message instead of failing.
 
+## Example files
+
+`write_examples(size)` writes one file per metric:
+
+```
+evaluation/examples_{metric}_{size}.csv
+```
+
+Each file holds, for both translation directions, the 20 sentences where
+iOS scored furthest above Android and the 20 where Android scored
+furthest above iOS. Columns: `direction`, `winner`, `gap`, `text`, `ios`,
+`ios_score`, `android`, `android_score`, `gold`.
+
+chrF and BLEU are recomputed on the spot. COMET and BERTScore are read
+from the per-sentence scores their evaluate functions keep in memory, so
+those two must run in the same session — `run_all(size)` does that.
+
+### How to read these files
+
+**Rows with `gap` of exactly 0 are padding.** The file always contains 20
+rows per side, but there are not always 20 genuine wins — the remainder
+are sentences where both platforms produced the same translation. Ignore
+them; they carry no information.
+
+**Sentence-level BLEU is close to useless here.** On the full sets every
+one of the largest gaps is exactly 100 or -100: a sentence either matches
+the reference word for word or it does not. "Trenujemy codziennie" scores
+0 and "Trenujemy każdego dnia" scores 100, although both are correct.
+The file is kept for completeness, not for drawing conclusions.
+
+**chrF favours whichever platform happened to match the reference.** On
+the full sets the largest gaps are one- and two-word sentences where one
+platform hit the gold wording and the other gave a different but equally
+valid rendering ("Bzdura!" against "Nonsens!", "Boję się." against
+"Jestem przerażony."). This is the single-reference caveat in its
+sharpest form.
+
+**COMET is the one worth quoting.** Its largest gaps are real failures —
+"Zrobił rodzice.", "Świeca wyszła z siebie.", "Post comes from the
+south." — while its largest gaps in the other direction stay under 0.2
+and cover sentences where both translations are acceptable. Use this file
+when you need examples for the thesis.
+
 ## Statistical significance
 
 A small metric difference can be noise. The paired bootstrap cell

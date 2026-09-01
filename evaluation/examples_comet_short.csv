@@ -1,0 +1,81 @@
+direction;winner;gap;text;ios;ios_score;android;android_score;gold
+en-pl;ios;0.5437;He made his parents happy.;Uszczęśliwił swoich rodziców.;0.9801;Zrobił rodzice.;0.4364;Uszczęśliwił rodziców.
+en-pl;ios;0.4369;Please take more care in the future.;Proszę, zachowaj więcej ostrożności w przyszłości.;0.9384;W przyszłości wziąć więcej opieki.;0.5015;Proszę, na przyszłość bardziej uważaj.
+en-pl;ios;0.3717;Not wanting is the same as having.;Nie chcieć to to samo, co mieć.;0.7889;Nie chce, jest taki sam jak posiadanie.;0.4172;Nie chcieć oznacza mieć.
+en-pl;ios;0.3369;We left a margin for error in our estimates.;Zostawiliśmy margines błędu w naszych szacunkach.;0.9421;Wyszliśmy margines na błędy w naszych szacunkach.;0.6052;W naszych szacunkach założyliśmy margines błędu.
+en-pl;ios;0.3062;You're welcome.;Nie ma za co.;0.8907;Zapraszamy.;0.5845;Proszę bardzo, nie ma za co.
+en-pl;ios;0.3027;The old man tends to exaggerate.;Starzec ma tendencję do przesadzania.;0.9182;Stary człowiek ma tendencję do przesadnej.;0.6154;Staruszek lubi przesadzać.
+en-pl;ios;0.2988;He is English.;On jest Anglikiem.;0.9914;Jest angielskim.;0.6926;On jest Anglikiem.
+en-pl;ios;0.2874;Fear nothing.;Nie bój się niczego.;0.8505;Nic nie baw się.;0.5631;Bez obaw.
+en-pl;ios;0.2612;The candle went out by itself.;Świeca zgasła sama.;0.9644;Świeca wyszła sama sama.;0.7032;Świeczka sama zgasła.
+en-pl;ios;0.2551;I'm as hungry as a horse.;Jestem głodny jak koń.;0.9252;Jestem tak głodny jako konia.;0.6701;Jestem głodny jak wilk.
+en-pl;ios;0.2430;The candle went out of itself.;Świeca sama się zgasła.;0.9555;Świeca wyszła z siebie.;0.7125;Świeczka sama zgasła.
+en-pl;ios;0.2085;He's an Englishman.;On jest Anglikiem.;0.9932;Jest angielski.;0.7848;On jest Anglikiem.
+en-pl;ios;0.1931;The weather was getting worse and worse as the day went on.;Pogoda pogarszała się w miarę upływu dnia.;0.9771;Pogoda była gorsza i gorsza, ponieważ dzień poszedł dalej.;0.7840;Pogoda pogarszała się z upływem dnia.
+en-pl;ios;0.1241;The girl talking with John is Susan.;Dziewczyna rozmawiająca z Johnem to Susan.;0.9641;Dziewczyna rozmawia z Johnem jest Susan.;0.8400;Dziewczyna, która rozmawia z Johnem, to Susan.
+en-pl;ios;0.1129;It's my brother's.;To jest mojego brata.;0.9765;To mój brat.;0.8636;To jest mojego brata.
+en-pl;ios;0.0990;It's considered to be an important matter.;Uważa się, że jest to ważna sprawa.;0.9830;Jest uważany za ważną sprawę.;0.8839;Uważa się, ze to ważna sprawa.
+en-pl;ios;0.0913;This box contains five apples.;To pudełko zawiera pięć jabłek.;0.9479;To pole zawiera pięć jabłek.;0.8566;Ta skrzynka zawiera pięć jabłek.
+en-pl;ios;0.0905;You are not to blame for the accident.;Nie jesteś winny wypadku.;0.9572;Nie jesteś winny za wypadek.;0.8667;Nie jesteś winien tego wypadku.
+en-pl;ios;0.0882;When I was little, I read for hours alone in my room.;Kiedy byłem mały, czytałem godzinami sam w swoim pokoju.;0.9804;Kiedy byłem mały, czytam przez wiele godzin w moim pokoju.;0.8922;Kiedy byłem mały, czytałem godzinami, sam w swoim pokoju.
+en-pl;ios;0.0633;I took Highway 58.;Pojechałem autostradą 58.;0.9651;Wziąłem autostradę 58.;0.9018;Pojechałem autostradą numer 58.
+en-pl;android;-0.0941;I'm so sorry.;Bardzo mi przykro.;0.8657;Przepraszam.;0.9598;Przepraszam bardzo.
+en-pl;android;-0.0639;Despite the importance of sleep, its purpose is a mystery.;Pomimo znaczenia snu, jego celem jest tajemnica.;0.8260;Pomimo znaczenia snu, jego cel jest tajemnicą.;0.8899;Sen jest ważny, ale po co istnieje - to stanowi zagadkę.
+en-pl;android;-0.0478;Don't forget that we have homework.;Nie zapominaj, że mamy pracę domową.;0.9240;Nie zapomnij, że mamy zadanie domowe.;0.9718;Nie zapominaj, że mamy zadanie domowe.
+en-pl;android;-0.0194;"The password is ""Muiriel"".";"Hasło to ""Muiriel"".";0.9493;"Hasło jest ""Muiriel"".";0.9687;Hasło brzmi „Muiriel”.
+en-pl;android;-0.0059;"I said to myself, ""That's a good idea.""";"Powiedziałem sobie: ""To dobry pomysł"".";0.9775;Powiedziałem sobie - to dobry pomysł.;0.9834;Powiedziałem sobie: to dobry pomysł.
+en-pl;android;-0.0023;The girls objected to our plan.;Dziewczyny sprzeciwiały się naszemu planowi.;0.9781;Dziewczyny sprzeciwiły się naszym planie.;0.9805;Dziewczyny sprzeciwiły się naszemu planowi.
+en-pl;android;-0.0000;I love you.;Kocham cię.;0.9873;Kocham cię.;0.9873;Kocham cię.
+en-pl;android;-0.0000;Japan consumes a lot of paper.;Japonia zużywa dużo papieru.;0.9897;Japonia zużywa dużo papieru.;0.9897;Japonia zużywa dużo papieru.
+en-pl;android;-0.0000;What happened at that crossing?;Co się stało na tym przejściu?;0.8749;Co się stało na tym przejściu?;0.8749;Co się zdarzyło na tym skrzyżowaniu?
+en-pl;android;-0.0000;Astronomy deals with the stars and planets.;Astronomia zajmuje się gwiazdami i planetami.;0.9916;Astronomia zajmuje się gwiazdami i planetami.;0.9916;Astronomia zajmuje się gwiazdami i planetami.
+en-pl;android;-0.0000;He loves her.;On ją kocha.;0.9905;On ją kocha.;0.9905;On ją kocha.
+en-pl;android;-0.0000;I'm pregnant.;Jestem w ciąży.;0.9852;Jestem w ciąży.;0.9852;Jestem w ciąży.
+en-pl;android;-0.0000;No, he's not my new boyfriend.;Nie, on nie jest moim nowym chłopakiem.;0.9728;Nie, on nie jest moim nowym chłopakiem.;0.9728;Nie, to nie jest mój nowy chłopak.
+en-pl;android;-0.0000;I have to go shopping. I'll be back in an hour.;Muszę iść na zakupy. Wrócę za godzinę.;0.9518;Muszę iść na zakupy. Wrócę za godzinę.;0.9518;Muszę iść po zakupy, będę za godzinę.
+en-pl;android;-0.0000;We are happy.;Jesteśmy szczęśliwi.;0.9892;Jesteśmy szczęśliwi.;0.9892;Jesteśmy szczęśliwi.
+en-pl;android;-0.0000;She woke up.;Obudziła się.;0.9913;Obudziła się.;0.9913;Obudziła się.
+en-pl;android;-0.0000;Goodnight, Timmy.;Dobranoc, Timmy.;0.9898;Dobranoc, Timmy.;0.9898;Dobranoc, Timmy.
+en-pl;android;0.0000;I ordered two hamburgers.;Zamówiłem dwa hamburgery.;0.9893;Zamówiłem dwa hamburgery.;0.9893;Zamówiłem dwa hamburgery.
+en-pl;android;0.0000;Do you remember me?;Pamiętasz mnie?;0.9948;Pamiętasz mnie?;0.9948;Pamiętasz mnie?
+en-pl;android;0.0000;I would like a cup of coffee.;Chciałbym filiżankę kawy.;0.9901;Chciałbym filiżankę kawy.;0.9901;Chciałbym filiżankę kawy.
+pl-en;ios;0.3559;Matka była wykończona.;Mother was exhausted.;0.9309;The mother was finished.;0.5750;The mother was exhausted.
+pl-en;ios;0.3538;Smacznego!;Enjoy your meal!;0.9911;Tasty!;0.6374;Enjoy your meal!
+pl-en;ios;0.3406;Późno już.;It's late.;0.9306;Late.;0.5900;It's already late.
+pl-en;ios;0.3399;Nie przywykłem do publicznych wystąpień.;I'm not used to public speaking.;0.8978;I did not get public speeches.;0.5579;I am not accustomed to making speeches in public.
+pl-en;ios;0.3079;To zdjęcie zrobiono w Narze.;This photo was taken in Nara.;0.9828;This picture was taken in a computer.;0.6749;This photo was taken in Nara.
+pl-en;ios;0.2999;Staruszek lubi przesadzać.;The old man likes to exaggerate.;0.9311;Older likes to overdo.;0.6312;The old man tends to exaggerate.
+pl-en;ios;0.2959;Nie chcieć oznacza mieć.;Not wanting means not wanting to have.;0.7032;Do not want to mean.;0.4073;Not wanting is the same as having.
+pl-en;ios;0.2869;Poczta przychodzi przed południem.;The post office arrives before noon.;0.8508;Post comes from the south.;0.5639;The mail arrives before noon.
+pl-en;ios;0.2716;W moim poduszkowcu jest pełno węgorzy.;My hovercoat is full of eels.;0.8253;In my pillows, it is full of eels.;0.5537;My hovercraft is full of eels.
+pl-en;ios;0.2592;Jest biedna, ale szczęśliwa.;She is poor, but happy.;0.9574;It is poor but happy.;0.6981;She is poor, but she is happy.
+pl-en;ios;0.2572;Muszę iść po zakupy, będę za godzinę.;I have to go shopping, I'll be there in an hour.;0.9037;I have to go shopping, I will be an hour.;0.6464;I have to go shopping. I'll be back in an hour.
+pl-en;ios;0.2555;Nie mówię po japońsku.;I don't speak Japanese.;0.9835;I'm not talking about Japanese.;0.7280;I don't speak Japanese.
+pl-en;ios;0.2362;Nie brakuje niczego.;Nothing is missing.;0.9820;There is no lack of anything.;0.7458;Nothing is missing.
+pl-en;ios;0.2347;Z daleka wygląda to na piłkę.;From a distance it looks like a ball.;0.9185;From a distance it looks on the ball.;0.6838;Seen from a distance, it looks like a ball.
+pl-en;ios;0.2115;Czasami śni mi się dom.;Sometimes I dream of a house.;0.8150;Sometimes the house is dreaming.;0.6035;I sometimes dream of home.
+pl-en;ios;0.2009;Bez obaw.;No worries.;0.8109;Without worried.;0.6100;Fear nothing.
+pl-en;ios;0.1984;Proszę, na przyszłość bardziej uważaj.;Please be more careful for the future.;0.9137;Please, for the future more watch out.;0.7153;Please take more care in the future.
+pl-en;ios;0.1904;Jest zależny finansowo od swej żony.;He is financially dependent on his wife.;0.9679;It is financially dependent on your wife.;0.7774;He's financially dependent on his wife.
+pl-en;ios;0.1866;Wczoraj było trzęsienie ziemi.;There was an earthquake yesterday.;0.9739;Yesterday was the earthquake.;0.7873;There was an earthquake yesterday.
+pl-en;ios;0.1662;Rak to wielki wróg ludzkości.;Cancer is the great enemy of humanity.;0.9576;Rak is a great enemy of humanity.;0.7914;Cancer is a great enemy of humanity.
+pl-en;android;-0.1699;Proszę bardzo, nie ma za co.;Here you go, you're welcome.;0.7230;Please, you're welcome.;0.8929;You're welcome.
+pl-en;android;-0.1169;Hasło brzmi „Muiriel”.;"The slogan is ""Muiriel"".";0.8646;"The password is ""Muiriel"".";0.9815;"The password is ""Muiriel""."
+pl-en;android;-0.0714;Musisz iść.;You have to go.;0.9082;You must go.;0.9796;You must go.
+pl-en;android;-0.0687;Pojechałem autostradą numer 58.;I drove on highway number 58.;0.8150;I went highway number 58.;0.8836;I took Highway 58.
+pl-en;android;-0.0415;Japonia zużywa dużo papieru.;Japan uses a lot of paper.;0.9395;Japan consumes a lot of paper.;0.9810;Japan consumes a lot of paper.
+pl-en;android;-0.0335;Chciałbym filiżankę kawy.;I'd like a cup of coffee.;0.9396;I would like a cup of coffee.;0.9730;I would like a cup of coffee.
+pl-en;android;-0.0229;To jest tego samego koloru co moje.;It's the same color as mine.;0.9391;This is the same color as mine.;0.9619;That is the same color as mine.
+pl-en;android;-0.0224;Weź książkę i przeczytaj ją!;Take the book and read it!;0.9261;Take a book and read it!;0.9485;Take a book and read it.
+pl-en;android;-0.0218;Zaraz wracam.;I'll be right back.;0.8968;I'll come back soon.;0.9186;I will be back soon.
+pl-en;android;-0.0064;Sędzia skazał go na rok pozbawienia wolności.;The judge sentenced him to one year in prison.;0.9354;The judge sentenced him for a year imprisonment.;0.9417;The judge sentenced him to one year's imprisonment.
+pl-en;android;-0.0039;Jeszcze nie odzyskał przytomności.;He hasn't regained consciousness yet.;0.9377;He did not regain consciousness yet.;0.9417;He has not yet recovered consciousness.
+pl-en;android;-0.0014;Przyjdź też jutro!;Come tomorrow too!;0.8569;Come also tomorrow!;0.8583;Come again tomorrow.
+pl-en;android;-0.0011;Bez wątpienia Wszechświat jest nieskończony.;Without a doubt, the universe is infinite.;0.9187;No doubt the universe is infinite.;0.9198;There's no doubt: the universe is infinite.
+pl-en;android;-0.0000;Astronomia zajmuje się gwiazdami i planetami.;Astronomy deals with stars and planets.;0.9662;Astronomy deals with stars and planets.;0.9662;Astronomy deals with the stars and planets.
+pl-en;android;0.0000;Czy mówi pan po włosku?;Do you speak Italian?;0.9923;Do you speak Italian?;0.9923;Do you speak Italian?
+pl-en;android;0.0000;Zawołajcie policję!;Call the police!;0.9873;Call the police!;0.9873;Call the police!
+pl-en;android;0.0000;Ci, co go znają, lubią go.;Those who know him like him.;0.9728;Those who know him like him.;0.9728;Those who know him like him.
+pl-en;android;0.0000;Zamówiłem dwa hamburgery.;I ordered two hamburgers.;0.9818;I ordered two hamburgers.;0.9818;I ordered two hamburgers.
+pl-en;android;0.0000;Pamiętam pierwszy raz.;I remember the first time.;0.9706;I remember the first time.;0.9706;I remember the first time.
+pl-en;android;0.0000;To jest mojego brata.;This is my brother.;0.7452;This is my brother.;0.7452;It's my brother's.

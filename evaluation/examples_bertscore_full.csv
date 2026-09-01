@@ -1,0 +1,81 @@
+direction;winner;gap;text;ios;ios_score;android;android_score;gold
+en-pl;ios;0.3904;Phone me tomorrow at nine o'clock.;Zadzwoń do mnie jutro o dziewiątej.;0.9485;TELEFON JUTRO JUTRO KTÓREGO O.;0.5581;Zadzwoń do mnie jutro rano o dziewiątej.
+en-pl;ios;0.3875;Save Tom.;Uratuj Toma.;1.0000;Zapisz Tom.;0.6125;Uratuj Toma.
+en-pl;ios;0.3740;She loves Tom.;Ona kocha Toma.;1.0000;Uwielbia Tom.;0.6260;Ona kocha Toma.
+en-pl;ios;0.3728;Checkmate.;Szach mat.;1.0000;Mat.;0.6272;Szach mat.
+en-pl;ios;0.3646;What are you so afraid of telling me?;Czego tak bardzo boisz się mi powiedzieć?;0.9649;CO SYKCESZ SIĘ, ŻE MNIE MNIE?;0.6003;Czego tak się boisz mi powiedzieć?
+en-pl;ios;0.3507;I love games.;Uwielbiam gry.;1.0000;Kocham gry.;0.6493;Uwielbiam gry.
+en-pl;ios;0.3483;We are drinking tea.;Pijemy herbatę.;1.0000;Picie herbaty.;0.6517;Pijemy herbatę.
+en-pl;ios;0.3467;Let Tom know we've got a problem.;Daj znać Tomowi, że mamy problem.;1.0000;Niech Tom WIENIA Mamy problem.;0.6533;Daj znać Tomowi, że mamy problem.
+en-pl;ios;0.3438;I've been watching them.;Obserwowałem ich.;1.0000;Oglądałem je.;0.6562;Obserwowałem ich.
+en-pl;ios;0.3422;I guess so.;Chyba tak.;1.0000;Myślę, że tak.;0.6578;Chyba tak.
+en-pl;ios;0.3422;What're you getting all excited about?;Czym się ekscytujesz?;0.9482;CO JESTEŚ CZYME CZŁOWIEK?;0.6060;Czym ty się tak ekscytujesz?
+en-pl;ios;0.3419;They succeeded.;Udało im się.;1.0000;Unidli.;0.6581;Udało im się.
+en-pl;ios;0.3406;Just apologize to Tom.;Po prostu przeproś Toma.;1.0000;Przepraszam Tom.;0.6594;Po prostu przeproś Toma.
+en-pl;ios;0.3378;Keep looking.;Szukaj dalej.;1.0000;Patrz.;0.6622;Szukaj dalej.
+en-pl;ios;0.3361;Talk to your peers.;Porozmawiaj ze swoimi rówieśnikami.;1.0000;Talk to your peers.;0.6639;Porozmawiaj ze swoimi rówieśnikami.
+en-pl;ios;0.3318;It hurts.;To boli.;1.0000;Boli.;0.6682;To boli.
+en-pl;ios;0.3314;I turned red.;Poczerwieniałem.;0.9314;I turned red.;0.6000;Poczerwieniałam.
+en-pl;ios;0.3303;I volunteered.;Zgłosiłem się na ochotnika.;1.0000;Wolontariusz.;0.6697;Zgłosiłem się na ochotnika.
+en-pl;ios;0.3298;Would Tom like that?;Czy Tomowi się to spodoba?;1.0000;Czy TO TO TO?;0.6702;Czy Tomowi się to spodoba?
+en-pl;ios;0.3291;Mind your own business.;Zajmij się swoimi sprawami.;1.0000;Umysł własny biznes.;0.6709;Zajmij się swoimi sprawami.
+en-pl;android;-0.3617;Watch Tom.;Uważaj na Toma.;0.6383;Oglądaj Tom.;1.0000;Oglądaj Tom.
+en-pl;android;-0.3250;Well done.;Dobra robota.;0.6750;Dobrze zrobione.;1.0000;Dobrze zrobione.
+en-pl;android;-0.3209;She trusts him.;Ona mu ufa.;0.6791;Ufa mu.;1.0000;Ufa mu.
+en-pl;android;-0.3157;What is his age?;Ile ma lat?;0.6843;Jaki jest jego wiek?;1.0000;Jaki jest jego wiek?
+en-pl;android;-0.3107;I love it.;Uwielbiam to.;0.6893;Kocham to.;1.0000;Kocham to.
+en-pl;android;-0.3105;They trusted you.;Oni ci zaufali.;0.6895;Ufali ci.;1.0000;Ufali ci.
+en-pl;android;-0.3060;You're OK.;Nic Ci Nie Jest.;0.6940;Jesteś w porządku.;1.0000;Jesteś w porządku.
+en-pl;android;-0.3034;Let's work.;Chodźmy pracować.;0.6966;Pracujmy.;1.0000;Pracujmy.
+en-pl;android;-0.3031;We love it.;Uwielbiamy to.;0.6969;Kochamy to.;1.0000;Kochamy to.
+en-pl;android;-0.2982;Tom's missing.;Tom zaginął.;0.7018;Brakuje Toma.;1.0000;Brakuje Toma.
+en-pl;android;-0.2948;He is playing.;On się bawi.;0.7052;On gra.;1.0000;On gra.
+en-pl;android;-0.2934;I love bread.;Uwielbiam chleb.;0.7066;Kocham chleb.;1.0000;Kocham chleb.
+en-pl;android;-0.2872;Let's take a look.;Eksptujmy.;0.7128;Spójrzmy.;1.0000;Spójrzmy.
+en-pl;android;-0.2815;I'm going to fix it.;Zamierzam to naprawić.;0.7185;Naprawię to.;1.0000;Naprawię to.
+en-pl;android;-0.2773;I know that.;Wiem o tym.;0.7227;Wiem to.;1.0000;Wiem to.
+en-pl;android;-0.2722;Let's settle this now.;Załatwijmy to teraz.;0.7278;Ustalmy to teraz.;1.0000;Ustalmy to teraz.
+en-pl;android;-0.2681;I was scared.;Byłem przerażony.;0.7319;Bałem się.;1.0000;Bałem się.
+en-pl;android;-0.2661;Tom's cat is missing.;Kot Toma zaginął.;0.7339;Brakuje kota Toma.;1.0000;Brakuje kota Toma.
+en-pl;android;-0.2647;I collapsed.;Załamałem się.;0.7353;Upadłem.;1.0000;Upadłem.
+en-pl;android;-0.2646;I'm going to leave school.;Wychodzę ze szkoły.;0.7354;Zamierzam opuścić szkołę.;1.0000;Zamierzam opuścić szkołę.
+pl-en;ios;0.2590;Skończyłyście?;Are you done?;1.0000;Skończyłyście?;0.7410;Are you done?
+pl-en;ios;0.2513;Skończyliście?;Are you done?;1.0000;Skończyliście?;0.7487;Are you done?
+pl-en;ios;0.2379;Dzwoniłeś?;Did you call?;1.0000;Dzwoniłeś?;0.7621;Did you call?
+pl-en;ios;0.2293;Chrząknęłam.;I grunted.;1.0000;Chrząknęłam.;0.7707;I grunted.
+pl-en;ios;0.2288;Przysiągłem.;I swore.;1.0000;Przysiągłem.;0.7712;I swore.
+pl-en;ios;0.2275;Zwyciężyłem.;I won.;1.0000;Zwyciężyłem.;0.7725;I won.
+pl-en;ios;0.2262;Oszalałeś?;Are you crazy?;1.0000;Oszalałeś?;0.7738;Are you crazy?
+pl-en;ios;0.2257;Chrząknąłem.;I grunted.;1.0000;Chrząknąłem.;0.7743;I grunted.
+pl-en;ios;0.2253;Pierdnęliście.;You farted.;1.0000;Pierdnęliście.;0.7747;You farted.
+pl-en;ios;0.2252;Wrzeszczeliśmy.;We screamed.;1.0000;Wrzeszczeliśmy.;0.7748;We screamed.
+pl-en;ios;0.2251;Strajkujemy!;We're on strike!;1.0000;Strajkujemy!;0.7749;We're on strike!
+pl-en;ios;0.2250;Zajęczałam.;I groaned.;1.0000;Zajęczałam.;0.7750;I groaned.
+pl-en;ios;0.2249;Pościłyśmy.;We fasted.;1.0000;Pościłyśmy.;0.7751;We fasted.
+pl-en;ios;0.2247;Oszalałaś?;Are you crazy?;1.0000;Oszalałaś?;0.7753;Are you crazy?
+pl-en;ios;0.2241;Uklękłam.;I knelt down.;1.0000;Uklękłam.;0.7759;I knelt down.
+pl-en;ios;0.2237;Kłamiesz!;You're lying!;1.0000;Kłamiesz!;0.7763;You're lying!
+pl-en;ios;0.2233;Powtórzcie!;Repeat!;1.0000;Powtórzcie!;0.7767;Repeat!
+pl-en;ios;0.2231;Zajęczałem.;I groaned.;1.0000;Zajęczałem.;0.7769;I groaned.
+pl-en;ios;0.2215;Pościliśmy.;We fasted.;1.0000;Pościliśmy.;0.7785;We fasted.
+pl-en;ios;0.2208;Kłamiesz?;Are you lying?;1.0000;Kłamiesz?;0.7792;Are you lying?
+pl-en;android;-0.1418;Dranie!;You're there!;0.8582;Bastards!;1.0000;Bastards!
+pl-en;android;-0.1249;Kareta.;Carry.;0.8751;Four of a kind.;1.0000;Four of a kind.
+pl-en;android;-0.1218;Szerzcie esperanto!;Spread esperanto!;0.8740;Strike Esperanto!;0.9958;Spread Esperanto!
+pl-en;android;-0.1201;Drań!;You're a stard!;0.8799;Bastard!;1.0000;Bastard!
+pl-en;android;-0.1198;Niech pan idzie.;Go, sir.;0.8765;You go.;0.9962;Please go.
+pl-en;android;-0.1178;Tak powiedziałem.;That's what I said.;0.8822;I said so.;1.0000;I said so.
+pl-en;android;-0.1104;Odjechali.;They left.;0.8896;They drove away.;1.0000;They drove away.
+pl-en;android;-0.1097;Wstyd mi.;Shame on me.;0.8903;I am ashamed.;1.0000;I am ashamed.
+pl-en;android;-0.1087;Ten ptak to pliszka.;This bird is a bird.;0.8913;This bird is a wagtail.;1.0000;This bird is a wagtail.
+pl-en;android;-0.1071;Bardzo!;Very much!;0.8929;Very!;1.0000;Very!
+pl-en;android;-0.1054;Nie weszły.;They didn't come in.;0.8946;They did not enter.;1.0000;They did not enter.
+pl-en;android;-0.1054;Nie weszli.;They didn't come in.;0.8946;They did not enter.;1.0000;They did not enter.
+pl-en;android;-0.1030;Daj nam spokój.;Give us a break.;0.8970;Give us peace.;1.0000;Give us peace.
+pl-en;android;-0.1017;Dziwka.;Whore.;0.8983;Slut.;1.0000;Slut.
+pl-en;android;-0.1008;Kto to stłukł?;Who smeake it?;0.8992;Who broke it?;1.0000;Who broke it?
+pl-en;android;-0.0998;Kto dopingował?;Who was doping?;0.9002;Who cheered?;1.0000;Who cheered?
+pl-en;android;-0.0996;Opanujcie się.;Get a hulp.;0.8769;Master yourself.;0.9766;Control yourselves.
+pl-en;android;-0.0983;Rozważ następujący problem.;Consider the following issue.;0.9017;Consider the following problem.;1.0000;Consider the following problem.
+pl-en;android;-0.0977;O włos uniknęłam wypadku.;I a hair'm a hair's escape.;0.8362;I avoided the accident.;0.9338;I escaped the accident by the skin of my teeth.
+pl-en;android;-0.0975;To ty nie wiesz?;You don't know?;0.8627;Do not you know?;0.9602;Don't you know?
